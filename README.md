@@ -16,9 +16,7 @@
 
 #### 官方
 
-- [theme-starter](https://github.com/halo-sigs/theme-starter) - 最基础的主题模板，包含了主题的基本目录结构。
 - [theme-vite-starter](https://github.com/halo-sigs/theme-vite-starter) - 与 Vite 集成的主题模板，由 Vite 负责资源构建。
-- [theme-modern-starter](https://github.com/halo-sigs/theme-modern-starter) - 集成了现代前端技术栈的 Halo 2.0 的主题开发模板。
 - [theme-astro-starter](https://github.com/halo-sigs/theme-astro-starter) - 与 Astro 集成的主题模板，使用 Astro 对模板进行预编译。
 - [theme-earth](https://github.com/halo-dev/theme-earth) - Halo 2.0 的默认主题
 - [halo-theme-anatole](https://github.com/halo-dev/halo-theme-anatole) - 适用于 Halo 2.0 的 Anatole 主题
@@ -86,7 +84,7 @@
 - [halo-theme-gui](https://github.com/CirillaQL/halo-theme-gui) - 传统水墨风格的 Halo 博客主题，以宣纸底色、书法题字与朱红点缀营造疏朗安静的主题。
 - [halo-theme-halorum](https://github.com/xzyone/halo-theme-halorum) - Halorum 是一款面向 Halo 的轻论坛风格主题，基于 [mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) 的视觉语言移植并重构。
 - [halo-theme-vahlok](https://github.com/Aziteee/halo-theme-vahlok) - 一款暗金色调、古典风格的博客主题
-
+- [theme-flying](https://github.com/acanyo/theme-flying) 一款面向 Halo 2 的中文博客主题，视觉设计受 Aspect 启发。
 
 ### 插件
 
